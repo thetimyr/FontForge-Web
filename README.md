@@ -2,7 +2,7 @@
 
 Одностраничное веб-приложение для конвертации шрифтов между форматами TTF, OTF, WOFF (и SVG при импорте) с акцентом на генерацию веб-шрифтов и CSS-кода `@font-face`. Работает полностью на стороне клиента, без отправки файлов на сервер.
 
-![screenshot](https://via.placeholder.com/800x400?text=FontForge+Web+Screenshot)
+![screenshot](https://github.com/thetimyr/FontForge-Web/blob/main/other/Android%20Small%20-%205.png?raw=true)
 
 ## ✨ Возможности
 
@@ -35,7 +35,7 @@
 3. Перейдите в **Settings → Pages**.
 4. В разделе **Source** выберите ветку `main` (или `master`) и корневую папку, нажмите **Save**.
 5. Через несколько секунд GitHub выдаст публичный URL вида:
-[`https://thetimyr.github.io/FontForge-Web`](https://thetimyr.github.io/FontForge-Web)
+[`https://fontforge-web.netlify.app/`](https://fontforge-web.netlify.app/)
 Именно по этой ссылке приложение будет доступно онлайн.
 
 > 💡 Если вы уже используете этот репозиторий, просто включите GitHub Pages — и получите работающий онлайн-конвертер без дополнительных действий.
