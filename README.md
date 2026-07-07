@@ -2,7 +2,7 @@
 
 Одностраничное веб-приложение для конвертации шрифтов между форматами TTF, OTF, WOFF (и SVG при импорте) с акцентом на генерацию веб-шрифтов и CSS-кода `@font-face`. Работает полностью на стороне клиента, без отправки файлов на сервер.
 
-![screenshot](https://github.com/thetimyr/FontForge-Web/blob/main/other/Frame%201%20(2))
+![screenshot](https://github.com/thetimyr/FontForge-Web/blob/main/other/src1.png?raw=true)
 
 ## ✨ Возможности
 
@@ -57,6 +57,7 @@
 > Экспорт всегда создаёт валидные TTF/OTF/WOFF. Исходный SVG-шрифт конвертируется во внутреннее представление и может быть экспортирован в любой поддерживаемый формат.
 
 ### Системные шрифты
+![screenshot](https://github.com/thetimyr/FontForge-Web/blob/main/other/scr2.png?raw=true)
 
 Для работы с локальными шрифтами используется [`window.queryLocalFonts()`](https://developer.mozilla.org/en-US/docs/Web/API/Window/queryLocalFonts) (доступен в Chrome 103+, Edge 103+). Браузер запросит разрешение на чтение списка установленных шрифтов. После выбора шрифта он загружается в память и становится доступным для предпросмотра и конвертации.
 
