@@ -2,7 +2,7 @@
 
 Одностраничное веб-приложение для конвертации шрифтов между форматами TTF, OTF, WOFF (и SVG при импорте) с акцентом на генерацию веб-шрифтов и CSS-кода `@font-face`. Работает полностью на стороне клиента, без отправки файлов на сервер.
 
-![screenshot](https://github.com/thetimyr/FontForge-Web/blob/main/other/Android%20Small%20-%205.png?raw=true)
+![screenshot](https://github.com/thetimyr/FontForge-Web/blob/main/other/Frame%201%20(2))
 
 ## ✨ Возможности
 
